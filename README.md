@@ -27,6 +27,3 @@
 - Real-time messaging with WebSocket (Socket.IO)
 - Suggestions and replies powered by OpenAI GPT
 - Typing indicator and message grouping
-
-
-backend repository: [MESSAGING_PANEL_SERVER](https://github.com/devstar222696/MESSAGING_PANEL_SERVER)
