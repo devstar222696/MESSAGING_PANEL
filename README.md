@@ -24,7 +24,6 @@
    ```
 
 ## ✅ Features
-- Real-time messaging with WebSocket (Socket.IO)
 - Suggestions and replies powered by OpenAI GPT
 - Typing indicator and message grouping
 
