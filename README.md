@@ -13,9 +13,10 @@
 
 ### Backend (WebSocket + OpenAI)
 1. Navigate to `backend` folder
-2. Create a `.env` file with your OpenAI API key:
+2. Create a `.env` file with your OpenAI API key and backend url:
    ```
    OPENAI_API_KEY=your-openai-api-key
+   VITE_BACKEND_URL=your-backend-url
    ```
 3. Run:
    ```
