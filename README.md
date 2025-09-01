@@ -21,7 +21,7 @@
 3. Run:
    ```
    npm install
-   npm start
+   npm run dev
    ```
 
 ## ✅ Features
